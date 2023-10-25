@@ -1,3 +1,3 @@
 module.exports = {
-  booking_url: "#",
+  booking_url: "https://myp4a.ddns.net",
 };
